@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "547512587068",
+    "project_id": "physicsalpha-e7939",
+    "storage_bucket": "physicsalpha-e7939.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547512587068:android:6744aaccc11c2cafaa8439",
+        "android_client_info": {
+          "package_name": "com.example.physicsalpha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547512587068-mcl8jniusujrtaqs89rr3df4818h5kut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK2Jf-uMUfNFgfcYYPhu_9pBDCWnowglI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547512587068-mcl8jniusujrtaqs89rr3df4818h5kut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
